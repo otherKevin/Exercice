@@ -1,0 +1,1 @@
+/* First exercise for CI, using github action */
